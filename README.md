@@ -1,4 +1,4 @@
-## Hi! I'm Yuri Borges 👋
+## Hi! I'm Maria Eduarda 👋
 
 [![Blog](https://img.shields.io/website?label=YuriTheCoder.com&style=for-the-badge&url=https://sujeitoprogramador.com)](https://YuriTheCoder.com.br)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/duarda.limah)
