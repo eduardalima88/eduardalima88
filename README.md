@@ -1,6 +1,6 @@
 ## Hi! I'm Maria Eduarda 👋
 
-[![Blog](https://img.shields.io/website?label=YuriTheCoder.com&style=for-the-badge&url=https://sujeitoprogramador.com)](https://YuriTheCoder.com.br)
+[![Blog](https://img.shields.io/website?label=YuriTheCoder.com&style=for-the-badge&url=https://sujeitoprogramador.com)](https://duardalima.com.br)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/duarda.limah)
 
 ![Eduarda GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardalima88r&show_icons=true&theme=dracula)
